@@ -89,14 +89,20 @@ Feel free to fork the project and submit pull requests. Contributions are welcom
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙌 Acknowledgements
+
+
 Kaggle Dataset
 
+
 NLTK and Scikit-learn teams
+
 
 Streamlit community
 
 📫 Contact
+
 GitHub: legendaryLapulgaa
+
 
 Email: emmanuelnzekwue@icloud.com
 
