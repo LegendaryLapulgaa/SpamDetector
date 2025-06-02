@@ -112,7 +112,7 @@ Streamlit community
 
 ## 📫 Contact
 
-GitHub: legendaryLapulgaa
+GitHub: LegendaryLapulgaa
 
 Email: emmanuelnzekwue@icloud.com
 
