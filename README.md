@@ -67,6 +67,7 @@ A simple spam message classifier built with Python and Streamlit. It uses natura
 
    
 📝 Dataset
+
 Name: SMS Spam Collection
 
 Source: Kaggle Dataset
@@ -74,6 +75,7 @@ Source: Kaggle Dataset
 Contains 5,574 SMS messages classified as ham (legit) or spam.
 
 📌 To Do / Future Work
+
 Integrate deep learning models (LSTM, BERT)
 
 Use word embeddings (GloVe, Word2Vec)
@@ -83,9 +85,11 @@ Deploy on the web using Heroku/Render
 Improve preprocessing with lemmatization
 
 🤝 Contributing
+
 Feel free to fork the project and submit pull requests. Contributions are welcome!
 
 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙌 Acknowledgements
