@@ -12,8 +12,7 @@ A simple spam message classifier built with Python and Streamlit. It uses natura
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshot.png) <!-- Optional: Add if you have a screenshot -->
-
+<img width="610" alt="sd1" src="https://github.com/user-attachments/assets/24e3d8b5-32cf-472d-8960-9893d9c8b21f" />
 
 
 ---
